@@ -1,2 +1,2 @@
 # jlcabs.github.io
-- written using HTML and CSS
+- written only using HTML and CSS
